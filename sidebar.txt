@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xem:home|Door43 (xem)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xem|d43-xem repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xem/archive/master.zip|d43-xem.zip]]
+
+**Recent Changes**
+{{changes>ns = xem}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xem|Ethnologue data]]
+
